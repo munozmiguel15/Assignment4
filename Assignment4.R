@@ -1,3 +1,1 @@
-data is data
-and
-dd
+data i
