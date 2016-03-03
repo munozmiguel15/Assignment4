@@ -1,1 +1,1 @@
-hello world
+data is data
